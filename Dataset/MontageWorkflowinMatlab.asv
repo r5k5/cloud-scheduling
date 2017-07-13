@@ -1,0 +1,2 @@
+dag=ParseXML('Montage_1000.xml');
+[Exectime TransferTime]=ConstructDAGinMatlab(dag);

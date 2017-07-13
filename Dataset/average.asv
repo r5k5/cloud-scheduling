@@ -1,0 +1,5 @@
+function y = average(x)
+ fprintf('function");
+end
+z = 1:99;
+average(z)
